@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+li {
+  list-style-type: none;
+  text-align: left;
+  cursor: pointer;
+}
+
+li:hover {
+  background-color: coral;
+}
+
+.active {
+  color: blue;
+}
